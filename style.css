@@ -1,0 +1,23 @@
+.logo{
+    filter: grayscale(1) brightness(0);
+}
+
+.spanhead>span{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonhead>button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel-inner{
+    // height: 300px !important; 
+}
+
+.carousel-item{
+    height: 100% !important;
+    width:  100% !important;
+   
+}
